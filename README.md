@@ -34,8 +34,8 @@ To run these experiments, you will need a Python environment with PyTorch and th
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/ZaryabRahman/Stability-and-Expression-The-dual-mechanism-of-normalization-in-deep-learning/tree/main
+    cd Stability-and-Expression-The-dual-mechanism-of-normalization-in-deep-learning
     ```
 
 2.  **Create a virtual environment (recommended):**
