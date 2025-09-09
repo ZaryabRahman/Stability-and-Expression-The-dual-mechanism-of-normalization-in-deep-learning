@@ -46,7 +46,7 @@ To run these experiments, you will need a Python environment with PyTorch and th
 
 3.  **Install the required packages:**
     ```bash
-    pip install -r requirements.txt
+    pip install -r req.txt
     ```
 
 ## Running the Experiments
