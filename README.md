@@ -1,4 +1,4 @@
-# Code for "Stability and Expression: The Dual-Mechanism of Normalization in Deep Learning"
+# "Stability and Expression: The Dual-Mechanism of Normalization in Deep Learning"
 
 ![Journal Status](https://img.shields.io/badge/Journal%20Status-Under%20Review%20(SN%20Computer%20Science)-blue)
 
